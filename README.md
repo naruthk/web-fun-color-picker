@@ -6,8 +6,6 @@ This app allows you to randomly pick a color from any of the tiles shown on the 
 
 ## Demo
 
-See the demo of it by clicking on this link: [https://naruthk.github.io/web-fun-color-picker/demo/](https://naruthk.github.io/web-fun-color-picker/demo/)
-
 See the code on CodePen: [https://codepen.io/naruthk/pen/LzMwWJ](https://codepen.io/naruthk/pen/LzMwWJ)
 
 ## Screenshot
